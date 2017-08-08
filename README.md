@@ -36,7 +36,7 @@ Add `detox` to the plugins section of your `.eslintrc` configuration file. You c
 
 Add the following line to the top of your detox test files:
 ```
-/* eslint-env detox/detox */
+/* eslint-env detox/detox, mocha */
 ```
 
 
