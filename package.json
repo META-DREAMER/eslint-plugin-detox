@@ -9,7 +9,7 @@
     "eslint-plugin",
     "eslint-plugin-detox",
     "detox",
-    "react-native",
+    "react-native"
   ],
   "author": "Hammad Jutt",
   "main": "lib/index.js",
